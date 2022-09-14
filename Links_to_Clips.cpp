@@ -53,45 +53,45 @@ if (clipnumber == 10) {
 cout << "https://clips.twitch.tv/DignifiedNimblePidgeonKevinTurtle-jRM5ySk5_QE38t8I";
 }
 
-
+if (clipnumber == 11) {
 cout << "https://clips.twitch.tv/LachrymoseHomelyCougarWoofer-miLPgCIArE7vkpFO";
+}
 
-
-
+if (clipnumber == 12) {
 cout << "https://clips.twitch.tv/FilthyPeacefulAubergineGingerPower-o3-fEBD-ftV1L1hd";
+}
 
-
-
+if (clipnumber == 13) {
 cout << "https://clips.twitch.tv/FlirtySavageDiamondUnSane-2GX24KN8GOCFe3ji";
+}
 
-
-
+if (clipnumber == 14) {
 cout << "https://clips.twitch.tv/WimpyVictoriousLarkSaltBae-yoQhUpNq0s4GOk94";
+}
 
-
-
+if (clipnumber == 15) {
 cout << "https://clips.twitch.tv/UnusualObservantBananaBCWarrior-nnTvxVKvBNQTjjLF";
+}
 
-
-
+if (clipnumber == 16) {
 cout << "https://clips.twitch.tv/PoisedHomelyCourgetteSSSsss-qCY3pfJrdNHgx3mx";
+}
 
-
-
+if (clipnumber == 17) {
 cout << "https://clips.twitch.tv/DifficultCaringCheddarHeyGuys-V8qyiVAqg1d_paJa";
+}
 
-
-
+if (clipnumber == 18) {
 cout << "https://clips.twitch.tv/StrongTangibleJamCoolCat-NGTcyfFAOmP04ziY";
+}
 
-
-
+if (clipnumber == 19) {
 cout << "https://clips.twitch.tv/ClearBraveDolphinTBTacoLeft-OurwATa0jNvrtZ3d";
+}
 
-
-
+if (clipnumber == 20) {
 cout << "https://clips.twitch.tv/SparklyEphemeralBasenjiPraiseIt-9rbOvdnXl6jk1vTB";
-
+}
 
 
 cout << "https://clips.twitch.tv/CharmingAggressiveShieldCorgiDerp-Z3X_8fVYii1CDhTH";
@@ -218,7 +218,6 @@ cout << "https://clips.twitch.tv/SnappyGoldenWallabyHoneyBadger-FwNTtenLfVdh9CUc
 
 
 
-
 cout << "https://clips.twitch.tv/CrazyEnthusiasticPheasantThunBeast-_NVc3L_5L9qrah0g";
 
 
@@ -238,8 +237,10 @@ cout << "https://clips.twitch.tv/CrazyEnthusiasticPheasantThunBeast-_NVc3L_5L9qr
 
 
 
-cout << "Would you like to Exit?" << endl;
+cout << "Would you like to Exit" << "?" << endl;
 cin >> Exit;
 
+if (Exit >= 0) {
 return 0;
+}
 }
