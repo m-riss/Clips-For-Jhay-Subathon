@@ -93,53 +93,53 @@ if (clipnumber == 20) {
 cout << "https://clips.twitch.tv/SparklyEphemeralBasenjiPraiseIt-9rbOvdnXl6jk1vTB";
 }
 
-
+if (clipnumber == 21) {
 cout << "https://clips.twitch.tv/CharmingAggressiveShieldCorgiDerp-Z3X_8fVYii1CDhTH";
+}
 
-
-
+if (clipnumber == 22) {
 cout << "https://clips.twitch.tv/GrotesqueSavoryKoupreyFunRun-YeLYHpMsK_mLsqnt";
+}
 
-
-
+if (clipnumber == 23) {
 cout << "https://clips.twitch.tv/DelightfulOpenSoybeanTF2John-dWnBhN6T2OfbHMcn";
+}
 
-
-
+if (clipnumber == 24) {
 cout << "https://clips.twitch.tv/HelpfulPleasantElephantSmoocherZ-YTLd63XmY50Qszlo";
+}
 
-
-
+if (clipnumber == 25) {
 cout << "https://clips.twitch.tv/DiligentBovineSpindleFrankerZ-_mDKv5EbByBNdczB";
+}
 
-
-
+if (clipnumber == 26) {
 cout << "https://clips.twitch.tv/ShyHelpfulKoupreyUnSane-nerBJPie3CrY7Wfd";
+}
 
-
-
+if (clipnumber == 27) {
 cout << "https://clips.twitch.tv/NaiveMistyLionDuDudu-yPZHktta4oKW6zsD";
+}
 
-
-
+if (clipnumber == 28) {
 cout << "https://clips.twitch.tv/ExquisiteAbstruseYamVoteYea-c9hD-ak27zO3cnhd";
+}
 
-
-
+if (clipnumber == 29) {
 cout << "https://clips.twitch.tv/CreativeSuspiciousWhaleMingLee-N8BMqAEROZz-ExfC";
+}
 
-
-
+if (clipnumber == 30) {
 cout << "https://clips.twitch.tv/SpoopyCheerfulOcelotM4xHeh-SX0WP4U_COsOS_e-";
+}
 
-
-
+if (clipnumber == 31) {
 cout << "https://clips.twitch.tv/FaintMoralGuanacoStrawBeary--Oblm6Tl9zyD6eZE";
+}
 
-
-
+if (clipnumber == 32) {
 cout << "https://clips.twitch.tv/EnjoyableFuriousClintCoolCat-YSnDHT23x-un9y7L";
-
+}
 
 
 cout << "https://clips.twitch.tv/AnnoyingGoodAsparagusYee-VWsoHHKIWTxqfjpQ";
