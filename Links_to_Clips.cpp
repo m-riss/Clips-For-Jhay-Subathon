@@ -222,7 +222,15 @@ cout << "https://clips.twitch.tv/CrazyEnthusiasticPheasantThunBeast-_NVc3L_5L9qr
 
 
 
+cout << "https://clips.twitch.tv/LuckyOilyChamoisBrokeBack-Wp7sf63R9CRxm5lt";
 
+
+
+cout << "https://clips.twitch.tv/PluckyPunchyWombatRiPepperonis-srEse09owE5YkO3t";
+
+
+
+cout << "https://clips.twitch.tv/AggressiveCrunchyDragonflyDoritosChip-haTMBe2hsE5gqP_n";
 
 
 
